@@ -1019,7 +1019,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.5
-  limit: 8
+  posLimit: 8
+  scrollLimit: 4
 --- !u!1001 &1010700333
 PrefabInstance:
   m_ObjectHideFlags: 0
